@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div>
-       <h1>React and Node.js Example</h1>
+       <h1>React and Node.js Connection</h1>
 
 <form onSubmit={handleSubmit}>
   <input 
@@ -36,7 +36,7 @@ function App() {
   />
   <button type="submit">Submit</button>
 </form>
-
+&nbsp;
  <p>{message}</p>
 </div>
   )
